@@ -8,4 +8,6 @@ cout<<"Hello, this is a demo file";
 
  cout<<"second line added in file";
   cout<<"third line added in file";
+ 
+ cout<<"DONE"
 }
